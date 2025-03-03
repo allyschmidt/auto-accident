@@ -1,10 +1,15 @@
-# Intro to Data Science Lab 1
+# Auto Accident Dataset Lab
 
 Dataset was sourced from https://www.kaggle.com/datasets/xavierberge/road-accident-dataset
 
-## Instructions
-1. Unzip the folder
-2. View uncleaned data (Road_Accident_Data.csv) using Excel/Numbers
-3. Open the file Lab1.ipynb
-4. Run all cells to clean the data
-5. View cleaned data (Cleaned_Road_Accident_Data.csv) using Excel/Numbers
+## Project Overview
+
+This project performs data cleaning and preprocessing on an auto accident dataset in order to uncover trends in accident occurrences such as location and severity.  
+
+## Dataset
+
+This is a large dataset, with 23 columns and just over 300,000 rows. The data provides details on where the accident occurred, weather conditions, vehicle and roadway type, and more.  The data was collected from the UK, as evidenced by the latitude/longitude and which local authority handled each accident.
+
+## Visualizations
+
+The graphs included in this Jupyter Notebook aim to demonstrate both when accidents occurred as well as occurrance in Rural vs. Urban areas and the distribution of severity.  
